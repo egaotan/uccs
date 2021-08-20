@@ -2,7 +2,7 @@
 
 ## 简介
 
-The Union of the CryptoCurrency Security，简称uccs，是一个dao组织，各成员权利平等、自治活动。
+The Union of the CryptoCurrency Security，加密货币安全联合，简称uccs，是一个dao组织，各成员权利平等、自治活动。
 
 目的是通过联合行动来保护加密货币用户的合理所得。
 
